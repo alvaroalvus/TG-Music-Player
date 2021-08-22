@@ -1,4 +1,4 @@
-# TG Music Player — [Calls Music](https://github.com/callsmusic) & [pytgcalls](https://github.com/MarshalX/tgcalls)-based group call bot with queue and multiple chat support
+# TG Music Player — [Calls Music](https://github.com/alvaroalvus/oliviamusicrobot-) & [pytgcalls](https://github.com/MarshalX/tgcalls)-based group call bot with queue and multiple chat support
 
 ## Requirements
 
@@ -35,14 +35,14 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/TG-Music-Player)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alvaroalvus/oliviamusicrobot-)
 
 ## Get Your String Session By [Pyrogram](https://replit.com/@HiTechTech1/PyroStringSession)
 ## Commands
 
 | Command | Description                                          |
 | ------- | ---------------------------------------------------- |
-| /play   | play the replied audio file or YouTube video         |
+| /play   | type the song name or YouTube video         |
 | /pause  | pause the audio stream                               |
 | /resume | resume the audio stream                              |
 | /skip   | skip the current audio stream                        |
